@@ -1,0 +1,17 @@
+<layer>
+  <name>mub_logradouro_l</name>
+  <id>LayerInfoImpl-57259db0:17d29f27fe9:-cb4</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-57259db0:17d28bd573a:-de5</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-57259db0:17d29f27fe9:-cb5</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-11-16 18:17:12.474 UTC</dateCreated>
+  <dateModified>2021-11-16 19:53:32.532 UTC</dateModified>
+</layer>

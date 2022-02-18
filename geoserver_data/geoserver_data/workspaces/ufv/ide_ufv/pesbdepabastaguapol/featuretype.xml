@@ -1,0 +1,44 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--2cdaccc8:17db8b5515d:227b</id>
+  <name>pesbdepabastaguapol</name>
+  <nativeName>pesbdepabastaguapol</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--1f997add:179ccca54bf:1e89</id>
+  </namespace>
+  <title>pesbdepabastaguapol</title>
+  <keywords>
+    <string>features</string>
+    <string>pesbdepabastaguapol</string>
+  </keywords>
+  <srs>EPSG:31983</srs>
+  <nativeBoundingBox>
+    <minx>722011.3125</minx>
+    <maxx>722069.5</maxx>
+    <miny>7702298.0</miny>
+    <maxy>7702362.0</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-42.86750119468327</minx>
+    <maxx>-42.866934460920625</maxx>
+    <miny>-20.76587455833233</miny>
+    <maxy>-20.765289726232677</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-42be9296:17da0b0be1f:-1d34</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

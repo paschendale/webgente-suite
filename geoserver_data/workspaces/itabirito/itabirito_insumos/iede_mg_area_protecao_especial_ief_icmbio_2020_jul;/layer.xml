@@ -1,0 +1,16 @@
+<layer>
+  <name>iede_mg_area_protecao_especial_ief_icmbio_2020_jul;</name>
+  <id>LayerInfoImpl--c151ef5:17e8c129ded:-60e1</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--c151ef5:17e8c129ded:-6124</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--c151ef5:17e8c129ded:-60e2</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-01-24 13:36:48.656 UTC</dateCreated>
+</layer>

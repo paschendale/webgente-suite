@@ -1,0 +1,18 @@
+<wmsStore>
+  <id>WMSStoreInfoImpl-496ba6b7:17d2d89c5e3:2bae</id>
+  <name>Geoserver - Bom Despacho</name>
+  <type>WMS</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-57259db0:17d28bd573a:-dfa</id>
+  </workspace>
+  <metadata>
+    <entry key="useConnectionPooling">true</entry>
+  </metadata>
+  <__default>false</__default>
+  <dateCreated>2021-11-17 11:09:37.724 UTC</dateCreated>
+  <capabilitiesURL>https://geoserver.bomdespacho.mg.gov.br/geoserver/bomdespacho/wms?</capabilitiesURL>
+  <maxConnections>6</maxConnections>
+  <readTimeout>60</readTimeout>
+  <connectTimeout>30</connectTimeout>
+</wmsStore>

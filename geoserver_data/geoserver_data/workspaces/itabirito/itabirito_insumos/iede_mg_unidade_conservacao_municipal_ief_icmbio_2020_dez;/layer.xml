@@ -1,0 +1,16 @@
+<layer>
+  <name>iede_mg_unidade_conservacao_municipal_ief_icmbio_2020_dez;</name>
+  <id>LayerInfoImpl--c151ef5:17e8c129ded:-60b6</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--c151ef5:17e8c129ded:-611e</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--c151ef5:17e8c129ded:-60b7</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-01-24 13:42:28.133 UTC</dateCreated>
+</layer>

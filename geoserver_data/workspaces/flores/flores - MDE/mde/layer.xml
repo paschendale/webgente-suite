@@ -1,0 +1,18 @@
+<layer>
+  <name>mde</name>
+  <id>LayerInfoImpl--6dcef4b1:17b18dfa514:11c6</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe2</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl--6dcef4b1:17b18dfa514:11c5</id>
+  </resource>
+  <queryable>true</queryable>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-08-06 11:39:38.883 UTC</dateCreated>
+  <dateModified>2021-08-06 11:42:00.250 UTC</dateModified>
+</layer>

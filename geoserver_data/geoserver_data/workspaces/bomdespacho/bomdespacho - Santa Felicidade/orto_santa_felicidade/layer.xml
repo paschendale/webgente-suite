@@ -1,0 +1,16 @@
+<layer>
+  <name>orto_santa_felicidade</name>
+  <id>LayerInfoImpl-496ba6b7:17d2dca9482:-f24</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe2</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl-496ba6b7:17d2dca9482:-f25</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-11-17 12:32:30.902 UTC</dateCreated>
+</layer>

@@ -1,0 +1,17 @@
+<layer>
+  <name>iede_mg_trecho_rodoviario_der_2019;</name>
+  <id>LayerInfoImpl--c151ef5:17e8c129ded:-60c2</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--c151ef5:17e8c129ded:-6121</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--c151ef5:17e8c129ded:-60c3</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-01-24 13:41:10.942 UTC</dateCreated>
+  <dateModified>2022-01-26 13:23:17.455 UTC</dateModified>
+</layer>

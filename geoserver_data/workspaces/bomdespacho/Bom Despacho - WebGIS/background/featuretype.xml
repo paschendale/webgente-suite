@@ -1,0 +1,55 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-57259db0:17d28bd573a:605</id>
+  <name>background</name>
+  <nativeName>background</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-57259db0:17d28bd573a:-df9</id>
+  </namespace>
+  <title>background</title>
+  <keywords>
+    <string>features</string>
+    <string>background</string>
+  </keywords>
+  <nativeCRS>GEOGCS[&quot;SIRGAS 2000&quot;, 
+  DATUM[&quot;Sistema de Referencia Geocentrico para las AmericaS 2000&quot;, 
+    SPHEROID[&quot;GRS 1980&quot;, 6378137.0, 298.257222101, AUTHORITY[&quot;EPSG&quot;,&quot;7019&quot;]], 
+    TOWGS84[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 
+    AUTHORITY[&quot;EPSG&quot;,&quot;6674&quot;]], 
+  PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], 
+  UNIT[&quot;degree&quot;, 0.017453292519943295], 
+  AXIS[&quot;Geodetic longitude&quot;, EAST], 
+  AXIS[&quot;Geodetic latitude&quot;, NORTH], 
+  AUTHORITY[&quot;EPSG&quot;,&quot;4674&quot;]]</nativeCRS>
+  <srs>EPSG:4674</srs>
+  <nativeBoundingBox>
+    <minx>-45.65822168881521</minx>
+    <maxx>-44.8388062251847</maxx>
+    <miny>-20.067218574794182</miny>
+    <maxy>-19.29433781650565</maxy>
+    <crs>EPSG:4674</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-45.65822168881522</minx>
+    <maxx>-44.83880622518469</maxx>
+    <miny>-20.067218585361623</miny>
+    <maxy>-19.294337826041744</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-57259db0:17d28bd573a:-df5</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

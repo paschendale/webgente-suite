@@ -1,0 +1,16 @@
+<layer>
+  <name>lml_municipio_a</name>
+  <id>LayerInfoImpl--c151ef5:17e8c129ded:-5645</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--2cdaccc8:17dbdb52940:329c</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--c151ef5:17e8c129ded:-5646</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-01-24 13:51:00.533 UTC</dateCreated>
+</layer>

@@ -1,0 +1,17 @@
+<layer>
+  <name>cad_lote_a</name>
+  <id>LayerInfoImpl-57259db0:17d28bd573a:bb1</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-57259db0:17d28bd573a:-de7</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-57259db0:17d28bd573a:bb0</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-11-16 18:00:16.487 UTC</dateCreated>
+  <dateModified>2021-11-16 19:48:27.90 UTC</dateModified>
+</layer>

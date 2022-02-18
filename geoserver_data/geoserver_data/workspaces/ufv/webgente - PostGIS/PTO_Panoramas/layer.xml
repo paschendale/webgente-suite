@@ -1,0 +1,17 @@
+<layer>
+  <name>PTO_Panoramas</name>
+  <id>LayerInfoImpl--1f997add:179ccca54bf:1f48</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--79528a48:17a5f7da6b5:-7aeb</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--1f997add:179ccca54bf:1f47</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-06-02 18:12:17.940 UTC</dateCreated>
+  <dateModified>2021-07-05 18:19:25.524 UTC</dateModified>
+</layer>

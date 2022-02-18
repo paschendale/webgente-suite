@@ -1,0 +1,18 @@
+<layer>
+  <name>topodata_vicosa_renderizado</name>
+  <id>LayerInfoImpl--1f997add:179ccca54bf:1f34</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe2</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl--1f997add:179ccca54bf:1f33</id>
+  </resource>
+  <queryable>false</queryable>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-06-02 18:02:18.893 UTC</dateCreated>
+  <dateModified>2021-06-02 18:05:00.223 UTC</dateModified>
+</layer>

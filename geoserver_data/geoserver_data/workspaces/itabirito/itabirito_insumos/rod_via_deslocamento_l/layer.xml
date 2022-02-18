@@ -1,0 +1,16 @@
+<layer>
+  <name>rod_via_deslocamento_l</name>
+  <id>LayerInfoImpl--c151ef5:17e8c129ded:-5661</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--c151ef5:17e8c129ded:-6111</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--c151ef5:17e8c129ded:-5662</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-01-24 13:46:29.85 UTC</dateCreated>
+</layer>

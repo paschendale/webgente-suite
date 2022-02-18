@@ -1,0 +1,16 @@
+<layer>
+  <name>tra_passagem_nivel_p</name>
+  <id>LayerInfoImpl--c151ef5:17e8c129ded:-5f8a</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--c151ef5:17e8c129ded:-610d</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--c151ef5:17e8c129ded:-5f8b</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-01-24 13:44:36.295 UTC</dateCreated>
+</layer>

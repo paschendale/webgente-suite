@@ -1,0 +1,33 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--1f997add:179ccca54bf:1f35</id>
+  <name>mde_vicosa</name>
+  <mode>SINGLE</mode>
+  <title>Modelo Digital de Elevação - Viçosa</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--1f997add:179ccca54bf:1e88</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--1f997add:179ccca54bf:1f2e</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--1f997add:179ccca54bf:1f34</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fe2</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fe2</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>707632.0154</minx>
+    <maxx>734029.3537</maxx>
+    <miny>7694052.2191</miny>
+    <maxy>7714756.4481</maxy>
+    <crs class="projected">EPSG:31983</crs>
+  </bounds>
+  <dateCreated>2021-06-02 18:05:15.708 UTC</dateCreated>
+</layerGroup>

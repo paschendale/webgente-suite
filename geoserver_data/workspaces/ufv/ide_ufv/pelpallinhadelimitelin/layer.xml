@@ -1,0 +1,16 @@
+<layer>
+  <name>pelpallinhadelimitelin</name>
+  <id>LayerInfoImpl--2cdaccc8:17db8b5515d:-3c3</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-42be9296:17db3cd36ac:4db2</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--2cdaccc8:17db8b5515d:-3c4</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-12-14 12:13:39.186 UTC</dateCreated>
+</layer>

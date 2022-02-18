@@ -1,0 +1,44 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-42be9296:17da0b0be1f:-1d15</id>
+  <name>geedfedifreligiosapol</name>
+  <nativeName>geedfedifreligiosapol</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--1f997add:179ccca54bf:1e89</id>
+  </namespace>
+  <title>geedfedifreligiosapol</title>
+  <keywords>
+    <string>features</string>
+    <string>geedfedifreligiosapol</string>
+  </keywords>
+  <srs>EPSG:31983</srs>
+  <nativeBoundingBox>
+    <minx>721879.25</minx>
+    <maxx>721908.5</maxx>
+    <miny>7702575.0</miny>
+    <maxy>7702603.5</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-42.86879962907818</minx>
+    <maxx>-42.868515212712275</maxx>
+    <miny>-20.763389093778283</miny>
+    <maxy>-20.763128265128085</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-42be9296:17da0b0be1f:-1d34</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

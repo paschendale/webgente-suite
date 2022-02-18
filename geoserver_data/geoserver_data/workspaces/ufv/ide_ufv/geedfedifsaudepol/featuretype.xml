@@ -1,0 +1,44 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-42be9296:17da0b0be1f:-1d0d</id>
+  <name>geedfedifsaudepol</name>
+  <nativeName>geedfedifsaudepol</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--1f997add:179ccca54bf:1e89</id>
+  </namespace>
+  <title>geedfedifsaudepol</title>
+  <keywords>
+    <string>features</string>
+    <string>geedfedifsaudepol</string>
+  </keywords>
+  <srs>EPSG:31983</srs>
+  <nativeBoundingBox>
+    <minx>722583.8125</minx>
+    <maxx>722658.0625</maxx>
+    <miny>7702683.5</miny>
+    <maxy>7702733.0</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-42.86205214597285</minx>
+    <maxx>-42.86133304826722</maxx>
+    <miny>-20.762325320698082</miny>
+    <maxy>-20.761869482738792</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-42be9296:17da0b0be1f:-1d34</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

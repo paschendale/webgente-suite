@@ -1,0 +1,55 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--c151ef5:17e8c129ded:-60fa</id>
+  <name>enc_est_gerad_energia_eletrica_p</name>
+  <nativeName>enc_est_gerad_energia_eletrica_p</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--2cdaccc8:17dba63ccb9:-3b4c</id>
+  </namespace>
+  <title>enc_est_gerad_energia_eletrica_p</title>
+  <keywords>
+    <string>features</string>
+    <string>enc_est_gerad_energia_eletrica_p</string>
+  </keywords>
+  <nativeCRS>GEOGCS[&quot;SIRGAS 2000&quot;, 
+  DATUM[&quot;Sistema de Referencia Geocentrico para las AmericaS 2000&quot;, 
+    SPHEROID[&quot;GRS 1980&quot;, 6378137.0, 298.257222101, AUTHORITY[&quot;EPSG&quot;,&quot;7019&quot;]], 
+    TOWGS84[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 
+    AUTHORITY[&quot;EPSG&quot;,&quot;6674&quot;]], 
+  PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], 
+  UNIT[&quot;degree&quot;, 0.017453292519943295], 
+  AXIS[&quot;Geodetic longitude&quot;, EAST], 
+  AXIS[&quot;Geodetic latitude&quot;, NORTH], 
+  AUTHORITY[&quot;EPSG&quot;,&quot;4674&quot;]]</nativeCRS>
+  <srs>EPSG:4674</srs>
+  <nativeBoundingBox>
+    <minx>-43.73444929291934</minx>
+    <maxx>-43.73424929291933</maxx>
+    <miny>-20.21522199466079</miny>
+    <maxy>-20.21502199466079</maxy>
+    <crs>EPSG:4674</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-43.73444929291934</minx>
+    <maxx>-43.73424929291933</maxx>
+    <miny>-20.215222005430952</miny>
+    <maxy>-20.21502200543067</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--c151ef5:17e8c129ded:-6135</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

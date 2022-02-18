@@ -1,0 +1,17 @@
+<layer>
+  <name>gecbcanteirocentralpol</name>
+  <id>LayerInfoImpl-42be9296:17da0b0be1f:-1d2e</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-42be9296:17da0b0be1f:4b1e</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-42be9296:17da0b0be1f:-1d2f</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-12-10 14:26:08.540 UTC</dateCreated>
+  <dateModified>2021-12-13 11:35:19.552 UTC</dateModified>
+</layer>

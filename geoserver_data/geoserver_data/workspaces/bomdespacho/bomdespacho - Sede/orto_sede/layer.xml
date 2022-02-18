@@ -1,0 +1,16 @@
+<layer>
+  <name>orto_sede</name>
+  <id>LayerInfoImpl-496ba6b7:17d2e24f489:3092</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe2</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl-496ba6b7:17d2e24f489:3091</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-11-17 17:00:45.892 UTC</dateCreated>
+</layer>

@@ -1,0 +1,44 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--2cdaccc8:17db8b5515d:3260</id>
+  <name>petracaminhocarrocavellin</name>
+  <nativeName>petracaminhocarrocavellin</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--1f997add:179ccca54bf:1e89</id>
+  </namespace>
+  <title>petracaminhocarrocavellin</title>
+  <keywords>
+    <string>features</string>
+    <string>petracaminhocarrocavellin</string>
+  </keywords>
+  <srs>EPSG:31983</srs>
+  <nativeBoundingBox>
+    <minx>721647.25</minx>
+    <maxx>725212.375</maxx>
+    <miny>7698894.5</miny>
+    <maxy>7705427.0</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-42.87138383802053</minx>
+    <maxx>-42.83632402365508</maxx>
+    <miny>-20.796650197052774</miny>
+    <maxy>-20.737237093685827</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-42be9296:17da0b0be1f:-1d34</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

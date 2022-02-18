@@ -1,0 +1,55 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--c151ef5:17e8c129ded:-60f2</id>
+  <name>enc_trecho_energia_l</name>
+  <nativeName>enc_trecho_energia_l</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--2cdaccc8:17dba63ccb9:-3b4c</id>
+  </namespace>
+  <title>enc_trecho_energia_l</title>
+  <keywords>
+    <string>features</string>
+    <string>enc_trecho_energia_l</string>
+  </keywords>
+  <nativeCRS>GEOGCS[&quot;SIRGAS 2000&quot;, 
+  DATUM[&quot;Sistema de Referencia Geocentrico para las AmericaS 2000&quot;, 
+    SPHEROID[&quot;GRS 1980&quot;, 6378137.0, 298.257222101, AUTHORITY[&quot;EPSG&quot;,&quot;7019&quot;]], 
+    TOWGS84[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 
+    AUTHORITY[&quot;EPSG&quot;,&quot;6674&quot;]], 
+  PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], 
+  UNIT[&quot;degree&quot;, 0.017453292519943295], 
+  AXIS[&quot;Geodetic longitude&quot;, EAST], 
+  AXIS[&quot;Geodetic latitude&quot;, NORTH], 
+  AUTHORITY[&quot;EPSG&quot;,&quot;4674&quot;]]</nativeCRS>
+  <srs>EPSG:4674</srs>
+  <nativeBoundingBox>
+    <minx>-44.06274697260819</minx>
+    <maxx>-43.5334852217557</maxx>
+    <miny>-20.489722586199594</miny>
+    <maxy>-20.057913122833224</maxy>
+    <crs>EPSG:4674</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-44.062746972608196</minx>
+    <maxx>-43.5334852217557</maxx>
+    <miny>-20.489722597350013</miny>
+    <maxy>-20.05791313338797</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--c151ef5:17e8c129ded:-6135</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

@@ -1,0 +1,18 @@
+<layer>
+  <name>vicosa_cbers4a_198</name>
+  <id>LayerInfoImpl--1f997add:179ccca54bf:1e91</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe2</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl--1f997add:179ccca54bf:1e90</id>
+  </resource>
+  <queryable>false</queryable>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-06-02 17:48:36.116 UTC</dateCreated>
+  <dateModified>2021-06-02 18:08:39.42 UTC</dateModified>
+</layer>

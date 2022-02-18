@@ -1,0 +1,17 @@
+<layer>
+  <name>pdm_perimetro_urbano_a</name>
+  <id>LayerInfoImpl-57259db0:17d29f27fe9:-676</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-57259db0:17d28bd573a:-dda</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-57259db0:17d29f27fe9:-677</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-11-16 18:18:12.949 UTC</dateCreated>
+  <dateModified>2021-11-16 19:53:45.742 UTC</dateModified>
+</layer>

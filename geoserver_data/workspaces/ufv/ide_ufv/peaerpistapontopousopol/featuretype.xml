@@ -1,0 +1,41 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-42be9296:17da0b0be1f:-1d0f</id>
+  <name>peaerpistapontopousopol</name>
+  <nativeName>peaerpistapontopousopol</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--1f997add:179ccca54bf:1e89</id>
+  </namespace>
+  <title>peaerpistapontopousopol</title>
+  <keywords>
+    <string>peaerpistapontopousopol</string>
+    <string>features</string>
+  </keywords>
+  <srs>EPSG:31983</srs>
+  <nativeBoundingBox>
+    <minx>724470.625</minx>
+    <maxx>724953.0</maxx>
+    <miny>7704259.5</miny>
+    <maxy>7705049.5</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-42.84423528901893</minx>
+    <maxx>-42.83950382307285</maxx>
+    <miny>-20.747868442667034</miny>
+    <maxy>-20.740677018838962</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-42be9296:17da0b0be1f:-1d34</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

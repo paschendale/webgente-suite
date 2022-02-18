@@ -1,0 +1,13 @@
+<coverageStore>
+  <id>CoverageStoreInfoImpl--1f997add:179ccca54bf:1e8c</id>
+  <name>Vila Gianetti - Ortomosaico</name>
+  <type>GeoTIFF</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl--1f997add:179ccca54bf:1e88</id>
+  </workspace>
+  <__default>false</__default>
+  <dateCreated>2021-06-02 17:45:02.661 UTC</dateCreated>
+  <dateModified>2021-06-02 17:46:03.403 UTC</dateModified>
+  <url>file:///home/gente/imagem_gianetti/ortofoto_vila.tif</url>
+</coverageStore>

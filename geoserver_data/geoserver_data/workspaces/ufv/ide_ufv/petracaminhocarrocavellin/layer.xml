@@ -1,0 +1,17 @@
+<layer>
+  <name>petracaminhocarrocavellin</name>
+  <id>LayerInfoImpl--2cdaccc8:17db8b5515d:3261</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--2cdaccc8:17db8b5515d:325f</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--2cdaccc8:17db8b5515d:3260</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-12-14 13:04:19.91 UTC</dateCreated>
+  <dateModified>2021-12-14 13:04:44.217 UTC</dateModified>
+</layer>

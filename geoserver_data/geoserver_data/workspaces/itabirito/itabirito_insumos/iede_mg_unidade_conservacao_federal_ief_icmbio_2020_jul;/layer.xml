@@ -1,0 +1,16 @@
+<layer>
+  <name>iede_mg_unidade_conservacao_federal_ief_icmbio_2020_jul;</name>
+  <id>LayerInfoImpl--c151ef5:17e8c129ded:-60ba</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--c151ef5:17e8c129ded:-611f</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--c151ef5:17e8c129ded:-60bb</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-01-24 13:42:06.891 UTC</dateCreated>
+</layer>

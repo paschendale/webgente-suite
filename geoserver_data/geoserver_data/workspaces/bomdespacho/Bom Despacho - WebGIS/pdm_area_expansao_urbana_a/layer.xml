@@ -1,0 +1,17 @@
+<layer>
+  <name>pdm_area_expansao_urbana_a</name>
+  <id>LayerInfoImpl-57259db0:17d29f27fe9:-752</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-57259db0:17d28bd573a:-ddb</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-57259db0:17d29f27fe9:-753</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-11-16 18:17:52.613 UTC</dateCreated>
+  <dateModified>2021-11-16 19:53:39.255 UTC</dateModified>
+</layer>

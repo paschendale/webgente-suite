@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><roleRegistry xmlns="http://www.geoserver.org/security/roles" version="1.0">
+<roleList>
+<role id="ADMIN"/>
+<role id="GROUP_ADMIN"/>
+<role id="barao"/>
+<role id="jacobina"/>
+<role id="webgente"/>
+</roleList>
+<userList>
+<userRoles username="admin">
+<roleRef roleID="ADMIN"/>
+</userRoles>
+<userRoles username="brenda">
+<roleRef roleID="ADMIN"/>
+<roleRef roleID="GROUP_ADMIN"/>
+<roleRef roleID="barao"/>
+<roleRef roleID="jacobina"/>
+<roleRef roleID="webgente"/>
+</userRoles>
+<userRoles username="marotta">
+<roleRef roleID="ADMIN"/>
+<roleRef roleID="GROUP_ADMIN"/>
+</userRoles>
+<userRoles username="pmj">
+<roleRef roleID="jacobina"/>
+</userRoles>
+<userRoles username="sabrina">
+<roleRef roleID="ADMIN"/>
+<roleRef roleID="GROUP_ADMIN"/>
+</userRoles>
+<userRoles username="webgente">
+<roleRef roleID="webgente"/>
+</userRoles>
+</userList>
+<groupList/>
+</roleRegistry>

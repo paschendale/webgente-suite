@@ -1,0 +1,55 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--c151ef5:17e8c129ded:-5636</id>
+  <name>lml_aglomerado_rural_isolado_p</name>
+  <nativeName>lml_aglomerado_rural_isolado_p</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--2cdaccc8:17dba63ccb9:-3b4c</id>
+  </namespace>
+  <title>lml_aglomerado_rural_isolado_p</title>
+  <keywords>
+    <string>features</string>
+    <string>lml_aglomerado_rural_isolado_p</string>
+  </keywords>
+  <nativeCRS>GEOGCS[&quot;SIRGAS 2000&quot;, 
+  DATUM[&quot;Sistema de Referencia Geocentrico para las AmericaS 2000&quot;, 
+    SPHEROID[&quot;GRS 1980&quot;, 6378137.0, 298.257222101, AUTHORITY[&quot;EPSG&quot;,&quot;7019&quot;]], 
+    TOWGS84[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 
+    AUTHORITY[&quot;EPSG&quot;,&quot;6674&quot;]], 
+  PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], 
+  UNIT[&quot;degree&quot;, 0.017453292519943295], 
+  AXIS[&quot;Geodetic longitude&quot;, EAST], 
+  AXIS[&quot;Geodetic latitude&quot;, NORTH], 
+  AUTHORITY[&quot;EPSG&quot;,&quot;4674&quot;]]</nativeCRS>
+  <srs>EPSG:4674</srs>
+  <nativeBoundingBox>
+    <minx>-44.05533399287424</minx>
+    <maxx>-43.66057460676972</maxx>
+    <miny>-20.449450012770274</miny>
+    <maxy>-20.189348224682707</maxy>
+    <crs>EPSG:4674</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-44.055333992874246</minx>
+    <maxx>-43.66057460676972</maxx>
+    <miny>-20.449450023864564</miny>
+    <maxy>-20.18934823541731</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--c151ef5:17e8c129ded:-6135</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

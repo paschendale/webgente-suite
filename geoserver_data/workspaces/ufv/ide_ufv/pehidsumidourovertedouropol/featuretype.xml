@@ -1,0 +1,44 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-42be9296:17da0b0be1f:-1d2d</id>
+  <name>pehidsumidourovertedouropol</name>
+  <nativeName>pehidsumidourovertedouropol</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--1f997add:179ccca54bf:1e89</id>
+  </namespace>
+  <title>pehidsumidourovertedouropol</title>
+  <keywords>
+    <string>pehidsumidourovertedouropol</string>
+    <string>features</string>
+  </keywords>
+  <srs>EPSG:31983</srs>
+  <nativeBoundingBox>
+    <minx>721220.0625</minx>
+    <maxx>721731.9375</maxx>
+    <miny>7701768.5</miny>
+    <maxy>7703197.5</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-42.875202982436605</minx>
+    <maxx>-42.87010815452267</maxx>
+    <miny>-20.770749915094164</miny>
+    <maxy>-20.757785693449627</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-42be9296:17da0b0be1f:-1d34</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

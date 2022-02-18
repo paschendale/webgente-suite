@@ -1,0 +1,63 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-496ba6b7:17d2a161836:4927</id>
+  <name>base_cadastral</name>
+  <mode>SINGLE</mode>
+  <title>Base Cartográfica Cadastral de Bom Despacho</title>
+  <workspace>
+    <id>WorkspaceInfoImpl-57259db0:17d28bd573a:-dfa</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-57259db0:17d28bd573a:606</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-57259db0:17d29f27fe9:-127d</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-57259db0:17d28bd573a:f00</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-57259db0:17d29f27fe9:-66d</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-57259db0:17d29f27fe9:-670</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-57259db0:17d29f27fe9:-cb4</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-57259db0:17d29f27fe9:-cb6</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl-57259db0:17d28bd573a:-dea</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-57259db0:17d28bd573a:-dde</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-57259db0:17d28bd573a:-de6</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-57259db0:17d28bd573a:-df1</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-57259db0:17d28bd573a:-df2</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-57259db0:17d28bd573a:-de5</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-57259db0:17d28bd573a:-ddd</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-45.93354109866691</minx>
+    <maxx>-44.8388062251847</maxx>
+    <miny>-20.33393084923343</miny>
+    <maxy>-19.195580416529086</maxy>
+    <crs>EPSG:4674</crs>
+  </bounds>
+  <dateCreated>2021-11-17 10:54:13.940 UTC</dateCreated>
+</layerGroup>

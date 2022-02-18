@@ -1,0 +1,16 @@
+<layer>
+  <name>rel_alteracao_fisiografica_antropica_a</name>
+  <id>LayerInfoImpl--c151ef5:17e8c129ded:3ebe</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--c151ef5:17e8c129ded:-6116</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--c151ef5:17e8c129ded:3ebd</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-01-24 17:06:07.171 UTC</dateCreated>
+</layer>

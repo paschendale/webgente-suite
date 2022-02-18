@@ -1,0 +1,44 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-42be9296:17da0b0be1f:-1d31</id>
+  <name>gecbcanteirocentrallin</name>
+  <nativeName>gecbcanteirocentrallin</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--1f997add:179ccca54bf:1e89</id>
+  </namespace>
+  <title>gecbcanteirocentrallin</title>
+  <keywords>
+    <string>features</string>
+    <string>gecbcanteirocentrallin</string>
+  </keywords>
+  <srs>EPSG:31983</srs>
+  <nativeBoundingBox>
+    <minx>721243.8125</minx>
+    <maxx>722902.9375</maxx>
+    <miny>7701995.0</miny>
+    <maxy>7703261.0</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-42.87498300096959</minx>
+    <maxx>-42.85889460833833</maxx>
+    <miny>-20.768701878493694</miny>
+    <maxy>-20.757072587017884</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-42be9296:17da0b0be1f:-1d34</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

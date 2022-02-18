@@ -1,0 +1,20 @@
+<style>
+  <id>StyleInfoImpl--1f997add:179c7e9e418:48bb</id>
+  <name>cad_secao_logradouro_l</name>
+  <workspace>
+    <id>WorkspaceInfoImpl--1f997add:179c7e9e418:-7fff</id>
+  </workspace>
+  <format>sld</format>
+  <languageVersion>
+    <version>1.1.0</version>
+  </languageVersion>
+  <filename>cad_secao_logradouro_l.sld</filename>
+  <legend>
+    <width>132</width>
+    <height>76</height>
+    <format>image/png</format>
+    <onlineResource>cad_secao_logradouro_l.2.png</onlineResource>
+  </legend>
+  <dateCreated>2021-06-01 14:36:23.113 UTC</dateCreated>
+  <dateModified>2021-06-01 14:41:25.698 UTC</dateModified>
+</style>

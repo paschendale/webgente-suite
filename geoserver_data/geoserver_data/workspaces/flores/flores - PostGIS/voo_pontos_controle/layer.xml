@@ -1,0 +1,17 @@
+<layer>
+  <name>voo_pontos_controle</name>
+  <id>LayerInfoImpl--6dcef4b1:17b0bec8002:-762</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--6dcef4b1:17b0bec8002:-757</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--6dcef4b1:17b0bec8002:-763</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-08-05 17:08:04.724 UTC</dateCreated>
+  <dateModified>2021-08-05 17:11:38.91 UTC</dateModified>
+</layer>

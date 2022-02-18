@@ -1,0 +1,40 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--1f997add:179c7e9e418:-7ff3</id>
+  <name>imageamento_jacobina</name>
+  <mode>SINGLE</mode>
+  <title>Imageamento Aéreo e Orbital - Jacobina</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--1f997add:179c7e9e418:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--1f997add:179c7e9e418:-7ff7</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--1f997add:179c7e9e418:-7ff4</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--1f997add:179c7e9e418:-7ffa</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fe2</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fe2</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fe2</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>288834.0</minx>
+    <maxx>381674.0</maxx>
+    <miny>8740588.0</miny>
+    <maxy>8808224.0</maxy>
+    <crs class="projected">EPSG:32724</crs>
+  </bounds>
+  <dateCreated>2021-06-01 14:18:23.399 UTC</dateCreated>
+  <dateModified>2021-06-01 14:19:18.118 UTC</dateModified>
+</layerGroup>

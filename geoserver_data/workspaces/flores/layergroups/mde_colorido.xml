@@ -1,0 +1,40 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--6dcef4b1:17b18dfa514:11cd</id>
+  <name>mde_colorido</name>
+  <mode>SINGLE</mode>
+  <title>Modelo Digital de Elevação - Colorido</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--6dcef4b1:17b0bec8002:-786</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--6dcef4b1:17b18dfa514:11c6</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--6dcef4b1:17b18dfa514:11c9</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--6dcef4b1:17b18dfa514:11cc</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fe2</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fe2</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--6dcef4b1:17b18dfa514:11ce</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>270524.4013</minx>
+    <maxx>275994.4013</maxx>
+    <miny>8390117.8753</miny>
+    <maxy>8398892.0753</maxy>
+    <crs class="projected">EPSG:31983</crs>
+  </bounds>
+  <dateCreated>2021-08-06 11:48:05.999 UTC</dateCreated>
+  <dateModified>2021-08-06 11:50:34.396 UTC</dateModified>
+</layerGroup>

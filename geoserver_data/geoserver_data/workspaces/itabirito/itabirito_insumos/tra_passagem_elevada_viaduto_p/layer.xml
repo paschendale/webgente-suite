@@ -1,0 +1,16 @@
+<layer>
+  <name>tra_passagem_elevada_viaduto_p</name>
+  <id>LayerInfoImpl--c151ef5:17e8c129ded:-5e88</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--c151ef5:17e8c129ded:-610e</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--c151ef5:17e8c129ded:-5e89</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-01-24 13:45:08.5 UTC</dateCreated>
+</layer>

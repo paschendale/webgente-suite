@@ -1,0 +1,42 @@
+<dataStore>
+  <id>DataStoreInfoImpl-57259db0:17d28bd573a:-df5</id>
+  <name>Bom Despacho - WebGIS</name>
+  <description>Banco de Dados de Bom Despacho</description>
+  <type>PostGIS</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-57259db0:17d28bd573a:-dfa</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="schema">webgis</entry>
+    <entry key="Evictor run periodicity">300</entry>
+    <entry key="Max open prepared statements">50</entry>
+    <entry key="encode functions">true</entry>
+    <entry key="Batch insert size">1</entry>
+    <entry key="preparedStatements">false</entry>
+    <entry key="database">bomdespacho</entry>
+    <entry key="host">localhost</entry>
+    <entry key="Loose bbox">true</entry>
+    <entry key="SSL mode">DISABLE</entry>
+    <entry key="Estimated extends">true</entry>
+    <entry key="fetch size">1000</entry>
+    <entry key="Expose primary keys">false</entry>
+    <entry key="validate connections">true</entry>
+    <entry key="Support on the fly geometry simplification">true</entry>
+    <entry key="Connection timeout">20</entry>
+    <entry key="create database">false</entry>
+    <entry key="Method used to simplify geometries">FAST</entry>
+    <entry key="port">5432</entry>
+    <entry key="passwd">crypt1:FX9ulrAGKLv47h7Y1JTX5A==</entry>
+    <entry key="min connections">1</entry>
+    <entry key="dbtype">postgis</entry>
+    <entry key="namespace">/bomdespacho</entry>
+    <entry key="max connections">10</entry>
+    <entry key="Evictor tests per run">3</entry>
+    <entry key="Test while idle">true</entry>
+    <entry key="user">marotta</entry>
+    <entry key="Max connection idle time">300</entry>
+  </connectionParameters>
+  <__default>false</__default>
+  <dateCreated>2021-11-16 17:39:02.524 UTC</dateCreated>
+</dataStore>

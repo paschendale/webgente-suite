@@ -1,0 +1,17 @@
+<layer>
+  <name>pmbd_simulacao_iptu_vvi_70000</name>
+  <id>LayerInfoImpl-57259db0:17d29f27fe9:-184</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-57259db0:17d28bd573a:5d</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-57259db0:17d29f27fe9:-185</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-11-16 18:27:01.715 UTC</dateCreated>
+  <dateModified>2021-11-16 19:54:58.748 UTC</dateModified>
+</layer>

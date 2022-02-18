@@ -1,0 +1,16 @@
+<layer>
+  <name>iede_mg_ponto_cotado_altimetrico;</name>
+  <id>LayerInfoImpl--c151ef5:17e8c129ded:3eca</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--c151ef5:17e8c129ded:-6125</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--c151ef5:17e8c129ded:3ec9</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-01-24 17:11:03.848 UTC</dateCreated>
+</layer>

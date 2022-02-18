@@ -1,0 +1,16 @@
+<layer>
+  <name>peptoptorefgeodtopopt</name>
+  <id>LayerInfoImpl--2cdaccc8:17db8b5515d:5995</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--2cdaccc8:17db8b5515d:5991</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--2cdaccc8:17db8b5515d:5994</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-12-14 13:11:33.526 UTC</dateCreated>
+</layer>

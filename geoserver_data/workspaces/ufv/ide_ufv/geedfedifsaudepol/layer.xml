@@ -1,0 +1,17 @@
+<layer>
+  <name>geedfedifsaudepol</name>
+  <id>LayerInfoImpl-42be9296:17da0b0be1f:-1d0c</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-42be9296:17db3cd36ac:4dae</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-42be9296:17da0b0be1f:-1d0d</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-12-10 14:31:45.43 UTC</dateCreated>
+  <dateModified>2021-12-13 13:37:38.282 UTC</dateModified>
+</layer>

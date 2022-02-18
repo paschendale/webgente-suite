@@ -1,0 +1,66 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-57259db0:17d2a0483cd:-14ab</id>
+  <name>tra_quilometragem_p</name>
+  <nativeName>tra_quilometragem_p</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-57259db0:17d28bd573a:-df9</id>
+  </namespace>
+  <title>tra_quilometragem_p</title>
+  <keywords>
+    <string>features</string>
+    <string>tra_quilometragem_p</string>
+  </keywords>
+  <nativeCRS class="projected">PROJCS[&quot;SIRGAS 2000 / UTM zone 23S&quot;, 
+  GEOGCS[&quot;SIRGAS 2000&quot;, 
+    DATUM[&quot;Sistema de Referencia Geocentrico para las AmericaS 2000&quot;, 
+      SPHEROID[&quot;GRS 1980&quot;, 6378137.0, 298.257222101, AUTHORITY[&quot;EPSG&quot;,&quot;7019&quot;]], 
+      TOWGS84[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 
+      AUTHORITY[&quot;EPSG&quot;,&quot;6674&quot;]], 
+    PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], 
+    UNIT[&quot;degree&quot;, 0.017453292519943295], 
+    AXIS[&quot;Geodetic longitude&quot;, EAST], 
+    AXIS[&quot;Geodetic latitude&quot;, NORTH], 
+    AUTHORITY[&quot;EPSG&quot;,&quot;4674&quot;]], 
+  PROJECTION[&quot;Transverse_Mercator&quot;, AUTHORITY[&quot;EPSG&quot;,&quot;9807&quot;]], 
+  PARAMETER[&quot;central_meridian&quot;, -45.0], 
+  PARAMETER[&quot;latitude_of_origin&quot;, 0.0], 
+  PARAMETER[&quot;scale_factor&quot;, 0.9996], 
+  PARAMETER[&quot;false_easting&quot;, 500000.0], 
+  PARAMETER[&quot;false_northing&quot;, 10000000.0], 
+  UNIT[&quot;m&quot;, 1.0], 
+  AXIS[&quot;Easting&quot;, EAST], 
+  AXIS[&quot;Northing&quot;, NORTH], 
+  AUTHORITY[&quot;EPSG&quot;,&quot;31983&quot;]]</nativeCRS>
+  <srs>EPSG:31983</srs>
+  <nativeBoundingBox>
+    <minx>455549.92970952386</minx>
+    <maxx>489993.4547095238</maxx>
+    <miny>7798733.265609523</miny>
+    <maxy>7843154.593609524</maxy>
+    <crs class="projected">EPSG:31983</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-45.42468027280974</minx>
+    <maxx>-45.09536622582659</maxx>
+    <miny>-19.907667926024445</miny>
+    <maxy>-19.5057628894507</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-57259db0:17d28bd573a:-df5</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

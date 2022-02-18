@@ -1,0 +1,13 @@
+<coverageStore>
+  <id>CoverageStoreInfoImpl--1f997add:179ccca54bf:1f32</id>
+  <name>vicosa - MDE Topodata Renderizado</name>
+  <type>GeoTIFF</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl--1f997add:179ccca54bf:1e88</id>
+  </workspace>
+  <__default>false</__default>
+  <dateCreated>2021-06-02 18:01:36.659 UTC</dateCreated>
+  <dateModified>2021-06-02 18:02:29.624 UTC</dateModified>
+  <url>file:///home/gente/imagem_gianetti/mde_vicosa_renderizado.tif</url>
+</coverageStore>

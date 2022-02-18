@@ -1,0 +1,22 @@
+<layer>
+  <name>pto_rede_ref_cad_municipal_p</name>
+  <id>LayerInfoImpl--1f997add:179c7e9e418:-7fb7</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--1f997add:179c803435d:-55b5</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl--1f997add:179c803435d:-55b5</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--1f997add:179c7e9e418:-7fb8</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-06-01 14:20:41.28 UTC</dateCreated>
+  <dateModified>2021-06-01 14:53:22.266 UTC</dateModified>
+</layer>

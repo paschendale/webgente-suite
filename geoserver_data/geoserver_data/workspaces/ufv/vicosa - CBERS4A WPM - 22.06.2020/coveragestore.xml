@@ -1,0 +1,13 @@
+<coverageStore>
+  <id>CoverageStoreInfoImpl--1f997add:179ccca54bf:1e8f</id>
+  <name>vicosa - CBERS4A WPM - 22.06.2020</name>
+  <description>Pansharpening RGB com 2 metros de resolução</description>
+  <type>GeoTIFF</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl--1f997add:179ccca54bf:1e88</id>
+  </workspace>
+  <__default>false</__default>
+  <dateCreated>2021-06-02 17:47:36.819 UTC</dateCreated>
+  <url>file:///home/gente/imagem_gianetti/CBERS_4A_WPM_20200622_198_139_L4_Render.tif</url>
+</coverageStore>

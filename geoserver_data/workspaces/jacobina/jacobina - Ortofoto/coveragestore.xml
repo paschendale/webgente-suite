@@ -1,0 +1,12 @@
+<coverageStore>
+  <id>CoverageStoreInfoImpl--1f997add:179c7e9e418:-7ffc</id>
+  <name>jacobina - Ortofoto</name>
+  <type>GeoTIFF</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl--1f997add:179c7e9e418:-7fff</id>
+  </workspace>
+  <__default>false</__default>
+  <dateCreated>2021-06-01 14:14:06.159 UTC</dateCreated>
+  <url>file:///home/gente/imagem_jacobina/ortofoto/ortofoto_jacobina_8b.tif</url>
+</coverageStore>

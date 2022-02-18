@@ -1,0 +1,16 @@
+<layer>
+  <name>pmi_cadastro_2015_a</name>
+  <id>LayerInfoImpl--c151ef5:17e8c129ded:-5655</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--c151ef5:17e8c129ded:-6133</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--c151ef5:17e8c129ded:-5656</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-01-24 13:47:43.211 UTC</dateCreated>
+</layer>

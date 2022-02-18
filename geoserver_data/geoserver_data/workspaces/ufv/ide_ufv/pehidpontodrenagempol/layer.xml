@@ -1,0 +1,17 @@
+<layer>
+  <name>pehidpontodrenagempol</name>
+  <id>LayerInfoImpl-42be9296:17da0b0be1f:-1d28</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--2cdaccc8:17db8b5515d:61db</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-42be9296:17da0b0be1f:-1d29</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-12-10 14:29:20.301 UTC</dateCreated>
+  <dateModified>2021-12-14 13:20:48.10 UTC</dateModified>
+</layer>

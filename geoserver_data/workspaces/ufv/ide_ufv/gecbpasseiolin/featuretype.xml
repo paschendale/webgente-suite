@@ -1,0 +1,44 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-42be9296:17da0b0be1f:-1d25</id>
+  <name>gecbpasseiolin</name>
+  <nativeName>gecbpasseiolin</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--1f997add:179ccca54bf:1e89</id>
+  </namespace>
+  <title>gecbpasseiolin</title>
+  <keywords>
+    <string>features</string>
+    <string>gecbpasseiolin</string>
+  </keywords>
+  <srs>EPSG:31983</srs>
+  <nativeBoundingBox>
+    <minx>720848.3125</minx>
+    <maxx>723233.875</maxx>
+    <miny>7701177.5</miny>
+    <maxy>7703897.5</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-42.878859958749615</minx>
+    <maxx>-42.855613224144</maxx>
+    <miny>-20.776130579133678</miny>
+    <maxy>-20.751285657847678</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-42be9296:17da0b0be1f:-1d34</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

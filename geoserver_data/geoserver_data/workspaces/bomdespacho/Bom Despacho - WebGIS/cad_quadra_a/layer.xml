@@ -1,0 +1,17 @@
+<layer>
+  <name>cad_quadra_a</name>
+  <id>LayerInfoImpl-57259db0:17d28bd573a:f00</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-57259db0:17d28bd573a:-de6</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-57259db0:17d28bd573a:eff</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-11-16 18:00:38.952 UTC</dateCreated>
+  <dateModified>2021-11-16 19:48:37.130 UTC</dateModified>
+</layer>

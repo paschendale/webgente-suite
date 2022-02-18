@@ -1,0 +1,17 @@
+<layer>
+  <name>pehidtrechomassadaguapol</name>
+  <id>LayerInfoImpl-42be9296:17da0b0be1f:4b2c</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-42be9296:17da0b0be1f:4b26</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-42be9296:17da0b0be1f:4b2b</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-12-10 18:09:16.773 UTC</dateCreated>
+  <dateModified>2021-12-13 11:39:38.864 UTC</dateModified>
+</layer>

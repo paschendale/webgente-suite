@@ -1,0 +1,44 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-42be9296:17da0b0be1f:-1d1d</id>
+  <name>pehidlimitemassadagualin</name>
+  <nativeName>pehidlimitemassadagualin</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--1f997add:179ccca54bf:1e89</id>
+  </namespace>
+  <title>pehidlimitemassadagualin</title>
+  <keywords>
+    <string>features</string>
+    <string>pehidlimitemassadagualin</string>
+  </keywords>
+  <srs>EPSG:31983</srs>
+  <nativeBoundingBox>
+    <minx>721036.75</minx>
+    <maxx>721887.5</maxx>
+    <miny>7701211.0</miny>
+    <maxy>7703241.5</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-42.87696831916051</minx>
+    <maxx>-42.868543993460314</maxx>
+    <miny>-20.775805718006406</miny>
+    <maxy>-20.757369869946736</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-42be9296:17da0b0be1f:-1d34</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

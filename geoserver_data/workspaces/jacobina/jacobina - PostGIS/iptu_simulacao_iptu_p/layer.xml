@@ -1,0 +1,17 @@
+<layer>
+  <name>iptu_simulacao_iptu_p</name>
+  <id>LayerInfoImpl--3dae49d6:17ccc34c6f1:19a7</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--3dae49d6:17ccc34c6f1:383b</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--3dae49d6:17ccc34c6f1:19a6</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-10-29 13:24:11.433 UTC</dateCreated>
+  <dateModified>2021-10-29 13:25:13.921 UTC</dateModified>
+</layer>

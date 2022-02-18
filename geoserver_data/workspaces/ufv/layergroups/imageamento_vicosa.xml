@@ -1,0 +1,39 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--1f997add:179ccca54bf:1e95</id>
+  <name>imageamento_vicosa</name>
+  <mode>SINGLE</mode>
+  <title>Imageamento Aéreo e Orbital - Viçosa</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--1f997add:179ccca54bf:1e88</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--1f997add:179ccca54bf:1e94</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--1f997add:179ccca54bf:1e91</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--1f997add:179ccca54bf:1e8e</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fe2</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fe2</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fe2</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>707803.9999835647</minx>
+    <maxx>733906.0</maxx>
+    <miny>7694173.998739638</miny>
+    <maxy>7714506.0</maxy>
+    <crs class="projected">EPSG:32723</crs>
+  </bounds>
+  <dateCreated>2021-06-02 17:51:56.236 UTC</dateCreated>
+</layerGroup>

@@ -1,0 +1,18 @@
+<layer>
+  <name>incra_lotes</name>
+  <id>LayerInfoImpl--6dcef4b1:17b0bec8002:-76f</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--6dcef4b1:17b0bec8002:-75b</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--6dcef4b1:17b0bec8002:-770</id>
+  </resource>
+  <queryable>true</queryable>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-08-05 17:06:22.622 UTC</dateCreated>
+  <dateModified>2021-08-05 17:12:16.194 UTC</dateModified>
+</layer>

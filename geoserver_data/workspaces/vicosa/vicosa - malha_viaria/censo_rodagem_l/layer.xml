@@ -1,0 +1,17 @@
+<layer>
+  <name>censo_rodagem_l</name>
+  <id>LayerInfoImpl-7d8a1b51:17c6109a28c:-490b</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-7d8a1b51:17c6109a28c:-19dc</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-7d8a1b51:17c6109a28c:-490c</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-10-11 11:59:55.142 UTC</dateCreated>
+  <dateModified>2021-10-11 12:06:14.492 UTC</dateModified>
+</layer>

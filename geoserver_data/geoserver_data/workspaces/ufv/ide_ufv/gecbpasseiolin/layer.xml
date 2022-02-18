@@ -1,0 +1,17 @@
+<layer>
+  <name>gecbpasseiolin</name>
+  <id>LayerInfoImpl-42be9296:17da0b0be1f:-1d24</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-42be9296:17db3cd36ac:4dd8</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-42be9296:17da0b0be1f:-1d25</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-12-10 14:29:38.441 UTC</dateCreated>
+  <dateModified>2021-12-13 13:44:23.690 UTC</dateModified>
+</layer>

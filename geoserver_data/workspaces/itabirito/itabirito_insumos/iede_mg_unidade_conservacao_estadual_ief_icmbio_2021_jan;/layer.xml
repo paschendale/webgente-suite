@@ -1,0 +1,16 @@
+<layer>
+  <name>iede_mg_unidade_conservacao_estadual_ief_icmbio_2021_jan;</name>
+  <id>LayerInfoImpl--c151ef5:17e8c129ded:-60be</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--c151ef5:17e8c129ded:-6120</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--c151ef5:17e8c129ded:-60bf</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-01-24 13:41:37.378 UTC</dateCreated>
+</layer>

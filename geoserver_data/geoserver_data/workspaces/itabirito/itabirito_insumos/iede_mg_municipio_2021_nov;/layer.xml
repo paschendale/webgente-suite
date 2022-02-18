@@ -1,0 +1,16 @@
+<layer>
+  <name>iede_mg_municipio_2021_nov;</name>
+  <id>LayerInfoImpl--c151ef5:17e8c129ded:-60d0</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--c151ef5:17e8c129ded:-6128</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--c151ef5:17e8c129ded:-60d1</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-01-24 13:39:30.614 UTC</dateCreated>
+</layer>

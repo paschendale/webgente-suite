@@ -1,0 +1,58 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-42be9296:17da0b0be1f:4b3b</id>
+  <name>base_ide_ufv</name>
+  <mode>SINGLE</mode>
+  <title>Base Cartográfica Temática - UFV</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--1f997add:179ccca54bf:1e88</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-42be9296:17da0b0be1f:-1d2e</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-42be9296:17da0b0be1f:-1d04</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-42be9296:17da0b0be1f:-1d20</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-42be9296:17da0b0be1f:4b2c</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-42be9296:17da0b0be1f:4b3a</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-42be9296:17da0b0be1f:-1d16</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl-42be9296:17da0b0be1f:4b1e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-42be9296:17da0b0be1f:4b24</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-42be9296:17da0b0be1f:4b20</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-42be9296:17da0b0be1f:4b26</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-42be9296:17da0b0be1f:4b28</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-42be9296:17da0b0be1f:4b22</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>720349.5</minx>
+    <maxx>725167.5</maxx>
+    <miny>7697268.5</miny>
+    <maxy>7704659.0</maxy>
+    <crs class="org.geotools.referencing.crs.DefaultEngineeringCRS">EPSG:404000</crs>
+  </bounds>
+  <dateCreated>2021-12-10 18:12:40.228 UTC</dateCreated>
+  <dateModified>2021-12-13 11:21:49.204 UTC</dateModified>
+</layerGroup>

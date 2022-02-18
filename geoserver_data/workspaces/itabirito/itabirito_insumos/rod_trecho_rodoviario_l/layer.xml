@@ -1,0 +1,16 @@
+<layer>
+  <name>rod_trecho_rodoviario_l</name>
+  <id>LayerInfoImpl--c151ef5:17e8c129ded:-565d</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--c151ef5:17e8c129ded:-6112</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--c151ef5:17e8c129ded:-565e</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-01-24 13:46:52.743 UTC</dateCreated>
+</layer>

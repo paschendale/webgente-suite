@@ -1,0 +1,16 @@
+<layer>
+  <name>eco_ext_mineral_a</name>
+  <id>LayerInfoImpl--c151ef5:17e8c129ded:-60fd</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--c151ef5:17e8c129ded:-6101</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--c151ef5:17e8c129ded:-60fe</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-01-24 13:33:38.636 UTC</dateCreated>
+</layer>

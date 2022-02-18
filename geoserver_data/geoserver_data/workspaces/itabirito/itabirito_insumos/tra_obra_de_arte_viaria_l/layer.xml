@@ -1,0 +1,16 @@
+<layer>
+  <name>tra_obra_de_arte_viaria_l</name>
+  <id>LayerInfoImpl--c151ef5:17e8c129ded:-5666</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--c151ef5:17e8c129ded:-6110</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--c151ef5:17e8c129ded:-5667</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-01-24 13:46:04.324 UTC</dateCreated>
+</layer>

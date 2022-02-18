@@ -1,0 +1,16 @@
+<layer>
+  <name>lml_aglomerado_rural_p</name>
+  <id>LayerInfoImpl--c151ef5:17e8c129ded:-5639</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--c151ef5:17e8c129ded:-611b</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--c151ef5:17e8c129ded:-563a</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-01-24 13:51:59.495 UTC</dateCreated>
+</layer>

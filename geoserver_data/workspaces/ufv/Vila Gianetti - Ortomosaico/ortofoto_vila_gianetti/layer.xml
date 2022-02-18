@@ -1,0 +1,18 @@
+<layer>
+  <name>ortofoto_vila_gianetti</name>
+  <id>LayerInfoImpl--1f997add:179ccca54bf:1e8e</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe2</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl--1f997add:179ccca54bf:1e8d</id>
+  </resource>
+  <queryable>false</queryable>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-06-02 17:45:20.68 UTC</dateCreated>
+  <dateModified>2021-06-02 18:08:35.415 UTC</dateModified>
+</layer>

@@ -1,0 +1,16 @@
+<layer>
+  <name>pesbdepabastaguapol</name>
+  <id>LayerInfoImpl--2cdaccc8:17db8b5515d:227c</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-42be9296:17db3cd36ac:4dac</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--2cdaccc8:17db8b5515d:227b</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-12-14 12:45:20.65 UTC</dateCreated>
+</layer>

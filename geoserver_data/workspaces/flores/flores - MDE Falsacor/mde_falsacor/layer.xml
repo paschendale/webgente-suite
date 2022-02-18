@@ -1,0 +1,17 @@
+<layer>
+  <name>mde_falsacor</name>
+  <id>LayerInfoImpl--6dcef4b1:17b18dfa514:11cc</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe2</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl--6dcef4b1:17b18dfa514:11cb</id>
+  </resource>
+  <queryable>false</queryable>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-08-06 11:41:42.866 UTC</dateCreated>
+</layer>

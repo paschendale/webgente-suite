@@ -1,0 +1,42 @@
+<dataStore>
+  <id>DataStoreInfoImpl--1f997add:179c7e9e418:-7ffd</id>
+  <name>jacobina - PostGIS</name>
+  <type>PostGIS</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl--1f997add:179c7e9e418:-7fff</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="schema">webgis</entry>
+    <entry key="Evictor run periodicity">300</entry>
+    <entry key="Max open prepared statements">50</entry>
+    <entry key="encode functions">true</entry>
+    <entry key="Batch insert size">1</entry>
+    <entry key="preparedStatements">false</entry>
+    <entry key="database">jacobina</entry>
+    <entry key="host">nuvem.copgeo.com</entry>
+    <entry key="Loose bbox">true</entry>
+    <entry key="SSL mode">DISABLE</entry>
+    <entry key="Estimated extends">true</entry>
+    <entry key="fetch size">1000</entry>
+    <entry key="Expose primary keys">true</entry>
+    <entry key="validate connections">true</entry>
+    <entry key="Support on the fly geometry simplification">true</entry>
+    <entry key="Connection timeout">20</entry>
+    <entry key="create database">false</entry>
+    <entry key="Method used to simplify geometries">FAST</entry>
+    <entry key="port">5432</entry>
+    <entry key="passwd">crypt1:AD2obEUb9QI5e7VBXfO2sA==</entry>
+    <entry key="min connections">1</entry>
+    <entry key="dbtype">postgis</entry>
+    <entry key="namespace">https://maps.genteufv.com.br/geoserver/jacobina</entry>
+    <entry key="max connections">10</entry>
+    <entry key="Evictor tests per run">3</entry>
+    <entry key="Test while idle">true</entry>
+    <entry key="user">marotta</entry>
+    <entry key="Max connection idle time">300</entry>
+  </connectionParameters>
+  <__default>false</__default>
+  <dateCreated>2021-06-01 14:13:12.196 UTC</dateCreated>
+  <dateModified>2021-10-15 20:34:18.260 UTC</dateModified>
+</dataStore>

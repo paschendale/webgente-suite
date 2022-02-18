@@ -1,0 +1,52 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-496ba6b7:17d2dca9482:-f23</id>
+  <name>imageamento_bomdespacho</name>
+  <mode>SINGLE</mode>
+  <title>Imageamento Aéreo e Orbital - Bom Despacho</title>
+  <workspace>
+    <id>WorkspaceInfoImpl-57259db0:17d28bd573a:-dfa</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-496ba6b7:17d2dca9482:-14a9</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-496ba6b7:17d2e24f489:3092</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-496ba6b7:17d2dca9482:-11c1</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-496ba6b7:17d2dca9482:-f27</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-496ba6b7:17d2dca9482:-f24</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fe2</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fe2</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fe2</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fe2</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fe2</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>442860.81911203783</minx>
+    <maxx>492168.81911203783</maxx>
+    <miny>7795729.108921141</miny>
+    <maxy>7846929.908921141</maxy>
+    <crs class="projected">EPSG:31983</crs>
+  </bounds>
+  <dateCreated>2021-11-17 12:34:40.289 UTC</dateCreated>
+  <dateModified>2021-11-17 17:01:48.630 UTC</dateModified>
+</layerGroup>

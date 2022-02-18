@@ -1,0 +1,18 @@
+<layer>
+  <name>hid_bacia</name>
+  <id>LayerInfoImpl--6dcef4b1:17b0bec8002:-778</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--6dcef4b1:17b0bec8002:-77e</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--6dcef4b1:17b0bec8002:-779</id>
+  </resource>
+  <queryable>false</queryable>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-08-05 17:05:16.646 UTC</dateCreated>
+  <dateModified>2021-08-05 17:12:53.972 UTC</dateModified>
+</layer>

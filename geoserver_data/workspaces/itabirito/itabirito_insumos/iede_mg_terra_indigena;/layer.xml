@@ -1,0 +1,16 @@
+<layer>
+  <name>iede_mg_terra_indigena;</name>
+  <id>LayerInfoImpl--c151ef5:17e8c129ded:-60c9</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--c151ef5:17e8c129ded:-6123</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--c151ef5:17e8c129ded:-60ca</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-01-24 13:40:25.279 UTC</dateCreated>
+</layer>

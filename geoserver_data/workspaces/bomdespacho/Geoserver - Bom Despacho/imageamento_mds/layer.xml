@@ -1,0 +1,16 @@
+<layer>
+  <name>imageamento_mds</name>
+  <id>LayerInfoImpl-496ba6b7:17d2d89c5e3:2bb2</id>
+  <type>WMS</type>
+  <defaultStyle>
+    <name></name>
+  </defaultStyle>
+  <resource class="wmsLayer">
+    <id>WMSLayerInfoImpl-496ba6b7:17d2d89c5e3:2bb1</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-11-17 11:10:33.986 UTC</dateCreated>
+</layer>

@@ -1,0 +1,16 @@
+<layer>
+  <name>hid_trecho_drenagem_l</name>
+  <id>LayerInfoImpl--c151ef5:17e8c129ded:-60e5</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--c151ef5:17e8c129ded:-612c</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--c151ef5:17e8c129ded:-60e6</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-01-24 13:36:00.450 UTC</dateCreated>
+</layer>

@@ -1,0 +1,18 @@
+<layer>
+  <name>incra_areas_comunitarias</name>
+  <id>LayerInfoImpl--6dcef4b1:17b0bec8002:-772</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--6dcef4b1:17b0bec8002:-75c</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--6dcef4b1:17b0bec8002:-773</id>
+  </resource>
+  <queryable>true</queryable>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-08-05 17:06:01.630 UTC</dateCreated>
+  <dateModified>2021-08-05 17:12:23.548 UTC</dateModified>
+</layer>

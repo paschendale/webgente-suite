@@ -1,0 +1,44 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--2cdaccc8:17db8b5515d:5994</id>
+  <name>peptoptorefgeodtopopt</name>
+  <nativeName>peptoptorefgeodtopopt</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--1f997add:179ccca54bf:1e89</id>
+  </namespace>
+  <title>peptoptorefgeodtopopt</title>
+  <keywords>
+    <string>features</string>
+    <string>peptoptorefgeodtopopt</string>
+  </keywords>
+  <srs>EPSG:31983</srs>
+  <nativeBoundingBox>
+    <minx>721649.4375</minx>
+    <maxx>725001.75</maxx>
+    <miny>7702350.5</miny>
+    <maxy>7705087.0</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-42.87131988513682</minx>
+    <maxx>-42.838790789423605</maxx>
+    <miny>-20.765443607505418</miny>
+    <maxy>-20.74033253259234</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-42be9296:17da0b0be1f:-1d34</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

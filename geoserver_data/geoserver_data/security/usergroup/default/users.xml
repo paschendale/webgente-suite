@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><userRegistry xmlns="http://www.geoserver.org/security/users" version="1.0">
+<users>
+<user enabled="true" name="brenda" password="digest1:QZpBC03MX7Rq8fL7HpwtDkyuCaC/gk7laNXHKSZ8LF1f9y1IOOeRSbpnhFSZLyNT"/>
+<user enabled="true" name="marotta" password="digest1:6/+Kbxl/XDqgsNdJlIMGsW6PBf7hPosFt09R47Ir9W/Xf3GLK5Qr8SsaOb/UQI7y"/>
+<user enabled="true" name="pmj" password="digest1:BCXUxgpdsMvtwVtXQuOHDb1maAgbbpeU/v6pxzoeh0zogltAqg3NNOX4o+qmRnY5"/>
+<user enabled="true" name="sabrina" password="digest1:GZI8tUYWyOhYRE646YwEXsJReZhy2/8uxUf8UeXDFH2cBDL61DcPJI+14d3V1Xiq"/>
+<user enabled="true" name="webgente" password="digest1:6sEJvR29cLClmFkiuCBoMjAsNjzfJhwIQZFKASPR90KqGibm1TLvp/YO+T8d6qFI"/>
+</users>
+<groups/>
+</userRegistry>

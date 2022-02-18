@@ -1,0 +1,45 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-57259db0:17d28bd573a:44f9</id>
+  <name>cad_edificacao_a</name>
+  <nativeName>cad_edificacao_a</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-57259db0:17d28bd573a:-df9</id>
+  </namespace>
+  <title>cad_edificacao_a</title>
+  <keywords>
+    <string>features</string>
+    <string>cad_edificacao_a</string>
+  </keywords>
+  <srs>EPSG:31983</srs>
+  <nativeBoundingBox>
+    <minx>167058.5699821723</minx>
+    <maxx>832941.430017827</maxx>
+    <miny>6289251.342124983</miny>
+    <maxy>1.0567813561305761E7</maxy>
+    <crs class="projected">EPSG:31983</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-48.58287421122833</minx>
+    <maxx>-41.417125788771685</maxx>
+    <miny>-33.53634404879456</miny>
+    <maxy>5.137049404966949</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-57259db0:17d28bd573a:-df5</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

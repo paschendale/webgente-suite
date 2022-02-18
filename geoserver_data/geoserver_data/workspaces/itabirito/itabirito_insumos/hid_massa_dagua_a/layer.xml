@@ -1,0 +1,16 @@
+<layer>
+  <name>hid_massa_dagua_a</name>
+  <id>LayerInfoImpl--c151ef5:17e8c129ded:-60e9</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--c151ef5:17e8c129ded:-612d</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--c151ef5:17e8c129ded:-60ea</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-01-24 13:35:41.271 UTC</dateCreated>
+</layer>

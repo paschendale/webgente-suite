@@ -1,0 +1,25 @@
+version: "3.7"
+services:
+  geoserver:
+    image: geosolutionsit/geoserver
+    ports:
+      - "8081:8080"
+    volumes:
+      - "geoserver_data:/var/geoserver/datadir"
+  webgente:
+    image: paschendale/webgente
+    ports:
+      - "3001:3000"
+    volumes:
+      - "./webgente_db:/usr/src/app/db"
+  postgis:
+    image: postgis/postgis
+    ports:
+      - "5433:5432"
+    environment:
+      - POSTGRES_PASSWORD=postgres
+      - PGDATA=/var/lib/postgresql/data
+    volumes:
+      - "./postgres:/var/lib/postgresql/data"
+volumes:
+  geoserver_data:

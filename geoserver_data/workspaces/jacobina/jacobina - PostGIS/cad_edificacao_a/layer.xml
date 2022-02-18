@@ -1,0 +1,17 @@
+<layer>
+  <name>cad_edificacao_a</name>
+  <id>LayerInfoImpl--60533c13:17c0e7b8f9b:-52d0</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--60533c13:17c0e7b8f9b:-52ca</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--60533c13:17c0e7b8f9b:-52d1</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-09-23 12:14:37.374 UTC</dateCreated>
+  <dateModified>2021-09-23 12:22:03.607 UTC</dateModified>
+</layer>

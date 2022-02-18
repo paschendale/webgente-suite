@@ -1,0 +1,16 @@
+<layer>
+  <name>rel_elemento_fisiografico_natural_p</name>
+  <id>LayerInfoImpl--c151ef5:17e8c129ded:3ec6</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--c151ef5:17e8c129ded:-6114</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--c151ef5:17e8c129ded:3ec5</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-01-24 17:06:54.504 UTC</dateCreated>
+</layer>

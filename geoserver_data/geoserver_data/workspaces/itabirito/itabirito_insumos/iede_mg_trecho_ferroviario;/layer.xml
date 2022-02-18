@@ -1,0 +1,16 @@
+<layer>
+  <name>iede_mg_trecho_ferroviario;</name>
+  <id>LayerInfoImpl--c151ef5:17e8c129ded:-60c5</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--c151ef5:17e8c129ded:-6122</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--c151ef5:17e8c129ded:-60c6</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-01-24 13:40:53.267 UTC</dateCreated>
+</layer>

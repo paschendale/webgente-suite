@@ -1,0 +1,16 @@
+<layer>
+  <name>jacobina_cbers4a_198</name>
+  <id>LayerInfoImpl--1f997add:179c7e9e418:-7ff7</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe2</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl--1f997add:179c7e9e418:-7ff8</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-06-01 14:15:50.807 UTC</dateCreated>
+</layer>

@@ -1,0 +1,17 @@
+<layer>
+  <name>vicosa_shortest_path</name>
+  <id>LayerInfoImpl-7d8a1b51:17c6109a28c:-4a93</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-7d8a1b51:17c6109a28c:-19da</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-7d8a1b51:17c6109a28c:-4a94</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-10-11 11:35:28.753 UTC</dateCreated>
+  <dateModified>2021-10-13 16:26:48.389 UTC</dateModified>
+</layer>

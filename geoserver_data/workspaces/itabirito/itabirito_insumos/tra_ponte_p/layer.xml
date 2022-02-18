@@ -1,0 +1,16 @@
+<layer>
+  <name>tra_ponte_p</name>
+  <id>LayerInfoImpl--c151ef5:17e8c129ded:-5f8e</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--c151ef5:17e8c129ded:-610c</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--c151ef5:17e8c129ded:-5f8f</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-01-24 13:43:16.818 UTC</dateCreated>
+</layer>

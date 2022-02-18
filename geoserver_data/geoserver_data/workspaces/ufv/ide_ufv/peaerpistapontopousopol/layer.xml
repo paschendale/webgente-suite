@@ -1,0 +1,17 @@
+<layer>
+  <name>peaerpistapontopousopol</name>
+  <id>LayerInfoImpl-42be9296:17da0b0be1f:-1d0e</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-42be9296:17da0b0be1f:-1d0f</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-12-10 14:31:35.580 UTC</dateCreated>
+  <dateModified>2021-12-13 11:38:22.682 UTC</dateModified>
+</layer>

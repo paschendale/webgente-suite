@@ -1,0 +1,16 @@
+<layer>
+  <name>enc_est_gerad_energia_eletrica_p</name>
+  <id>LayerInfoImpl--c151ef5:17e8c129ded:-60f9</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--c151ef5:17e8c129ded:-6131</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--c151ef5:17e8c129ded:-60fa</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-01-24 13:34:11.884 UTC</dateCreated>
+</layer>

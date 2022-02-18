@@ -1,0 +1,13 @@
+<coverageStore>
+  <id>CoverageStoreInfoImpl-496ba6b7:17d2dca9482:-f29</id>
+  <name>bomdespacho - Mato Seco</name>
+  <type>GeoTIFF</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-57259db0:17d28bd573a:-dfa</id>
+  </workspace>
+  <__default>false</__default>
+  <dateCreated>2021-11-17 12:31:08.524 UTC</dateCreated>
+  <dateModified>2021-11-17 12:31:47.431 UTC</dateModified>
+  <url>file:///home/gente/imagem_bomdespacho/mato_seco.tif</url>
+</coverageStore>

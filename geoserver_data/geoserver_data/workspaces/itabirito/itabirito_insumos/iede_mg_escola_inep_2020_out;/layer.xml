@@ -1,0 +1,16 @@
+<layer>
+  <name>iede_mg_escola_inep_2020_out;</name>
+  <id>LayerInfoImpl--c151ef5:17e8c129ded:-60d7</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--c151ef5:17e8c129ded:-6129</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--c151ef5:17e8c129ded:-60d8</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-01-24 13:38:41.202 UTC</dateCreated>
+</layer>

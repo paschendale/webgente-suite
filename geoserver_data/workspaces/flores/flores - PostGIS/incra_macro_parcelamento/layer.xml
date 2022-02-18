@@ -1,0 +1,18 @@
+<layer>
+  <name>incra_macro_parcelamento</name>
+  <id>LayerInfoImpl--6dcef4b1:17b0bec8002:-76c</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--6dcef4b1:17b0bec8002:-75a</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--6dcef4b1:17b0bec8002:-76d</id>
+  </resource>
+  <queryable>false</queryable>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-08-05 17:06:41.749 UTC</dateCreated>
+  <dateModified>2021-08-05 17:12:08.570 UTC</dateModified>
+</layer>
