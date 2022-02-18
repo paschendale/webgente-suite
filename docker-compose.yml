@@ -6,12 +6,18 @@ services:
       - "8081:8080"
     volumes:
       - "geoserver_data:/var/geoserver/datadir"
+    restart: always
+    environment:
+      - JAVA_OPTS=-Xms2048M -Xmx5120M -server -XX:+UseParallelGC
+    hostname: geoserver
   webgente:
     image: paschendale/webgente
     ports:
       - "3001:3000"
     volumes:
       - "./webgente_db:/usr/src/app/db"
+    restart: always    
+    hostname: webgente
   postgis:
     image: postgis/postgis
     ports:
@@ -21,5 +27,7 @@ services:
       - PGDATA=/var/lib/postgresql/data
     volumes:
       - "./postgres:/var/lib/postgresql/data"
+    restart: always
+    hostname: postgis
 volumes:
   geoserver_data:
